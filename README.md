@@ -5,12 +5,12 @@ This document will descripe the project in a tutorial style so you can rebuilt i
 Table of Contents
 ------------------------------------------------------------
 
-	- [Parts, Tools and Supplies] (#parts-tools-and-supplies)
-	- [Project Big Picture] (#project-big-picture)
-	- [Wiring all together] (#wiring-all-together)
-	- [Building the Frame] (#building-the-frame)
-	- [The Software for the Logic Board] (#the-software-for-the-logic-board)
-	- [The Client App] (#the-client-app)
+  - [Parts, Tools and Supplies] (#parts-tools-and-supplies)
+  - [Project Big Picture] (#project-big-picture)
+  - [Wiring all together] (#wiring-all-together)
+  - [Building the Frame] (#building-the-frame)
+  - [The Software for the Logic Board] (#the-software-for-the-logic-board)
+  - [The Client App] (#the-client-app)
 
 ###Parts, Tools and Supplies 
 - particle pothon board
