@@ -24,7 +24,7 @@ Table of Contents
 - Hot glue
 
 ##Project Big Picture 
-
+![alt text](assets/overview.png "Project overview")
 
 ##Get the pothon ready
 
